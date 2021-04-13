@@ -2,7 +2,7 @@
 - 👀 I’m interested in TECH
 - 🌱 I’m currently learning VUE
 - 💞️ I’m looking to collaborate on TECH
-- 📫 How to reach me in@technolvo.com
+- 📫 Just ask!
 
 <!---
 KLF-SK/KLF-SK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
